@@ -1,0 +1,218 @@
+[
+  {
+    "id": "99f4c4dd2aee4d4cb4e2834cc658eaae",
+    "name": "Chef John Doe",
+    "photo": "https://example.com/chef-john-doe.jpg",
+    "experience": "10 years",
+    "numRecipes": 8,
+    "likes": 236,
+    "viewRecipesButton": "https://example.com/chef-john-doe/recipes",
+    "description": "Chef John Doe is an expert in Indian cuisine, with over 10 years of experience in the culinary industry. He specializes in creating authentic dishes using traditional cooking techniques and locally-sourced ingredients.",
+    "recipes": [
+      {
+        "id": "811102df2d0c4e0c85b00e7a15871968",
+        "name": "Chicken Tikka Masala",
+        "ingredients": ["chicken", "yogurt", "spices", "tomato", "cream"],
+        "method": "1. Marinate chicken in yogurt and spices. 2. Grill chicken until cooked. 3. Simmer tomato and cream until sauce thickens. 4. Add chicken to sauce. Serve hot.",
+        "rating": 4.5,
+        "isFavorite": true
+      },
+      {
+        "id": "e3beee3db3ab406b8dcb29d8cfe17052",
+        "name": "Palak Paneer",
+        "ingredients": ["paneer", "spinach", "spices", "onion", "cream"],
+        "method": "1. Saute onion and spices. 2. Add spinach and cook until wilted. 3. Add paneer and cream. 4. Cook until heated through. Serve hot.",
+        "rating": 4.3,
+        "isFavorite": true
+      },
+      {
+        "id": "4e983d4d4e124b089c447f270569a989",
+        "name": "Lamb Biryani",
+        "ingredients": ["lamb", "rice", "spices", "onion", "yogurt"],
+        "method": "1. Marinate lamb in yogurt and spices. 2. Cook rice separately. 3. Saute onion and spices. 4. Add lamb and cook until browned. 5. Layer rice and lamb in a pot. 6. Cook on low heat until rice is fluffy. Serve hot.",
+        "rating": 4.7,
+        "isFavorite": true
+      }
+    ]
+  },
+  {
+    "id": "2d0c865e849e4a55b1a66f251fa31b7c",
+    "name": "Chef Jane Smith",
+    "photo": "https://example.com/chef-jane-smith.jpg",
+    "experience": "15 years",
+    "numRecipes": 12,
+    "likes": 315,
+    "viewRecipesButton": "https://example.com/chef-jane-smith/recipes",
+    "description": "Chef Jane Smith is a master of Indian cuisine, with over 15 years of experience in the culinary industry. She has a passion for creating innovative dishes that blend traditional flavors with modern cooking techniques.",
+    "recipes": [
+      {
+        "id": "5d6c5c6ec14c4960b1bcf5d5f5e5d748",
+        "name": "Aloo Gobi",
+        "ingredients": ["potatoes", "cauliflower", "spices", "onion", "tomato"],
+        "method": "1. Saute onion and spices. 2. Add potatoes and cauliflower. 3. Cook until tender. 4. Add tomato and cook until sauce thickens. Serve hot.",
+        "rating": 4.1,
+        "isFavorite": false
+      },
+      {
+        "id": "9b2cbf448cd24d1e836e7c3b3e46a90d",
+        "name": "Chana Masala",
+        "ingredients": ["lamb", "rice", "spices", "onion", "yogurt"],
+        "method": "1. Saute onion and spices. 2. Add chickpeas and cook until tender. 3. Serve hot.",
+      "rating": 4.2,
+      "isFavorite": true
+      },
+      {
+        "id": "c37a7a9bca2e4960b35a548a689c3f3a",
+        "name": "Chicken Korma",
+        "ingredients": ["chicken", "cashews", "spices", "onion", "cream"],
+        "method": "1. Saute onion and spices. 2. Grind cashews into a paste. 3. Add chicken and cashew paste. 4. Cook until chicken is tender. 5. Add cream and cook until heated through. Serve hot.",
+        "rating": 4.6,
+        "isFavorite": true
+      }
+    ]
+  },
+  {
+    "id": "a75a908b8de64f36b50a04a583301c6c",
+    "name": "Chef David Lee",
+    "photo": "https://example.com/chef-david-lee.jpg",
+    "experience": "8 years",
+    "numRecipes": 6,
+    "likes": 150,
+    "viewRecipesButton": "https://example.com/chef-david-lee/recipes",
+    "description": "Chef David Lee is a rising star in the world of Indian cuisine, with 8 years of experience in the culinary industry. He has a unique perspective on traditional dishes and loves to experiment with new ingredients and techniques.",
+    "recipes": [
+      {
+        "id": "34f7d74ef67d4287bba9873125f9c7b9",
+        "name": "Saag Paneer",
+        "ingredients": ["paneer", "spinach", "spices", "onion", "cream"],
+        "method": "1. Saute onion and spices. 2. Add spinach and cook until wilted. 3. Add paneer and cream. 4. Cook until heated through. Serve hot.",
+        "rating": 4.0,
+        "isFavorite": false
+      },
+      {
+        "id": "70d0ba2cc82849e7a107f455b08048d8",
+        "name": "Bhindi Masala",
+        "ingredients": ["okra", "spices", "onion", "tomato", "yogurt"],
+        "method": "1. Saute onion and spices. 2. Add okra and cook until tender. 3. Add tomato and cook until sauce thickens. 4. Add yogurt and cook until heated through. Serve hot.",
+        "rating": 4.3,
+        "isFavorite": false
+      },
+      {
+        "id": "3b1ab3e3b53f4d8da8b97adaf0a2a96f",
+        "name": "Fish Curry",
+        "ingredients": ["fish", "coconut milk", "spices", "onion", "tomato"],
+        "method": "1. Saute onion and spices. 2. Add tomato and cook until sauce thickens. 3. Add coconut milk and fish. 4. Cook until fish is tender. Serve hot.",
+        "rating": 4.5,
+        "isFavorite": true
+      }
+    ]
+  },
+  {
+    "id": "8e9b09f8315a4b2ebd135f5281a0a49d",
+    "name": "Chef Ritu Kumar",
+    "photo": "https://example.com/chef-ritu-kumar.jpg",
+    "experience": "10 years",
+    "numRecipes": 5,
+    "likes": 200,
+    "viewRecipesButton": "https://example.com/chef-ritu-kumar/recipes",
+    "description": "Chef Ritu Kumar is a renowned Indian chef with 10 years of experience in the culinary industry. She specializes in creating fusion dishes that combine traditional Indian flavors with international techniques.",
+    "recipes": [
+      {
+        "id": "0e3af8c0f7844372ba30116e9d9a8bb8",
+        "name": "Paneer Tikka Masala",
+        "ingredients": ["paneer", "spices", "onion", "tomato", "cream"],
+        "method": "1. Marinate paneer in spices and yogurt. 2. Grill until golden brown. 3. Saute onion and spices. 4. Add tomato and cook until sauce thickens. 5. Add cream and cook until heated through. 6. Add grilled paneer. Serve hot.",
+        "rating": 4.5,
+        "isFavorite": true
+      },
+      {
+        "id": "1c02cb2153b24dce8e48e04f200b7af9",
+        "name": "Chana Masala",
+        "ingredients": ["chickpeas", "spices", "onion", "tomato", "lemon"],
+        "method": "1. Saute onion and spices. 2. Add chickpeas and cook until tender. 3. Serve hot.",
+        "rating": 4.2,
+        "isFavorite": false
+      },
+      {
+        "id": "e8e80cb982b04e98b50f58a879a8dc56",
+        "name": "Chicken Tikka",
+        "ingredients": ["chicken", "spices", "yogurt", "ginger", "garlic"],
+        "method": "1. Marinate chicken in spices and yogurt. 2. Grill until golden brown. Serve hot.",
+        "rating": 4.8,
+        "isFavorite": true
+      }
+    ]
+  },
+  {
+    "id": "19f7f1282b9f46e99c0a50a4c4dc4a67",
+    "name": "Chef Marco Marco",
+    "photo": "https://example.com/chef-ritu-kumar.jpg",
+    "experience": "10 years",
+    "numRecipes": 5,
+    "likes": 200,
+    "viewRecipesButton": "https://example.com/chef-ritu-kumar/recipes",
+    "description": "Chef Ritu Kumar is a renowned Indian chef with 10 years of experience in the culinary industry. She specializes in creating fusion dishes that combine traditional Indian flavors with international techniques.",
+    "recipes": [
+      {
+        "id": "6db55f6c7b6f4d9b8f6fcf14467c15e6",
+        "name": "Paneer Tikka Masala",
+        "ingredients": ["paneer", "spices", "onion", "tomato", "cream"],
+        "method": "1. Marinate paneer in spices and yogurt. 2. Grill until golden brown. 3. Saute onion and spices. 4. Add tomato and cook until sauce thickens. 5. Add cream and cook until heated through. 6. Add grilled paneer. Serve hot.",
+        "rating": 4.5,
+        "isFavorite": true
+      },
+      {
+        "id": "0e964c5a1f3e4fb0a9d22a0f11b5cb3b",
+        "name": "Chana Masala",
+        "ingredients": ["chickpeas", "spices", "onion", "tomato", "lemon"],
+        "method": "1. Saute onion and spices. 2. Add chickpeas and cook until tender. 3. Serve hot.",
+        "rating": 4.2,
+        "isFavorite": false
+      },
+      {
+        "id": "59fc1411082c49f3b9680bbd65cfa123",
+        "name": "Chicken Tikka",
+        "ingredients": ["chicken", "spices", "yogurt", "ginger", "garlic"],
+        "method": "1. Marinate chicken in spices and yogurt. 2. Grill until golden brown. Serve hot.",
+        "rating": 4.8,
+        "isFavorite": true
+      }
+    ]
+  },
+  {
+    "id": "2223e2d787e2420d92bf0b123a9b9ec8",
+    "name": "Chef Sophia Anna",
+    "photo": "https://example.com/chef-ritu-kumar.jpg",
+    "experience": "10 years",
+    "numRecipes": 5,
+    "likes": 200,
+    "viewRecipesButton": "https://example.com/chef-ritu-kumar/recipes",
+    "description": "Chef Ritu Kumar is a renowned Indian chef with 10 years of experience in the culinary industry. She specializes in creating fusion dishes that combine traditional Indian flavors with international techniques.",
+    "recipes": [
+      {
+        "id": "7d550463934c46b7b5d035fe5bb7d1f5",
+        "name": "Paneer Tikka Masala",
+        "ingredients": ["paneer", "spices", "onion", "tomato", "cream"],
+        "method": "1. Marinate paneer in spices and yogurt. 2. Grill until golden brown. 3. Saute onion and spices. 4. Add tomato and cook until sauce thickens. 5. Add cream and cook until heated through. 6. Add grilled paneer. Serve hot.",
+        "rating": 4.5,
+        "isFavorite": true
+      },
+      {
+        "id": "9e8f0735bfb1415c92603042946667cc",
+        "name": "Chana Masala",
+        "ingredients": ["chickpeas", "spices", "onion", "tomato", "lemon"],
+        "method": "1. Saute onion and spices. 2. Add chickpeas and cook until tender. 3. Serve hot.",
+        "rating": 4.2,
+        "isFavorite": false
+      },
+      {
+        "id": "13b7e2bce6d9477f9dfc10eaa7a94a25",
+        "name": "Chicken Tikka",
+        "ingredients": ["chicken", "spices", "yogurt", "ginger", "garlic"],
+        "method": "1. Marinate chicken in spices and yogurt. 2. Grill until golden brown. Serve hot.",
+        "rating": 4.8,
+        "isFavorite": true
+      }
+    ]
+  }
+]
