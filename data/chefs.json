@@ -2,7 +2,7 @@
   {
     "id": "99f4c4dd2aee4d4cb4e2834cc658eaae",
     "name": "Chef John Doe",
-    "photo": "https://example.com/chef-john-doe.jpg",
+    "photo": "https://plus.unsplash.com/premium_photo-1661778021952-65997d03b2b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     "experience": "12 years",
     "numRecipes": 8,
     "likes": 236,
@@ -12,6 +12,7 @@
       {
         "id": "811102df2d0c4e0c85b00e7a15871968",
         "name": "Chicken Tikka Masala",
+        "photo": "https://images.unsplash.com/photo-1617692855027-33b14f061079?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGluZGlhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["chicken", "yogurt", "spices", "tomato", "cream"],
         "method": "1. Marinate chicken in yogurt and spices. 2. Grill chicken until cooked. 3. Simmer tomato and cream until sauce thickens. 4. Add chicken to sauce. Serve hot.",
         "rating": 4.5,
@@ -20,6 +21,7 @@
       {
         "id": "e3beee3db3ab406b8dcb29d8cfe17052",
         "name": "Palak Paneer",
+        "photo": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGluZGlhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["paneer", "spinach", "spices", "onion", "cream"],
         "method": "1. Saute onion and spices. 2. Add spinach and cook until wilted. 3. Add paneer and cream. 4. Cook until heated through. Serve hot.",
         "rating": 4.3,
@@ -28,6 +30,7 @@
       {
         "id": "4e983d4d4e124b089c447f270569a989",
         "name": "Lamb Biryani",
+        "photo": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTZ8fGluZGlhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["lamb", "rice", "spices", "onion", "yogurt"],
         "method": "1. Marinate lamb in yogurt and spices. 2. Cook rice separately. 3. Saute onion and spices. 4. Add lamb and cook until browned. 5. Layer rice and lamb in a pot. 6. Cook on low heat until rice is fluffy. Serve hot.",
         "rating": 4.7,
@@ -38,7 +41,7 @@
   {
     "id": "2d0c865e849e4a55b1a66f251fa31b7c",
     "name": "Chef Jane Smith",
-    "photo": "https://example.com/chef-jane-smith.jpg",
+    "photo": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "experience": "15 years",
     "numRecipes": 12,
     "likes": 315,
@@ -48,6 +51,7 @@
       {
         "id": "5d6c5c6ec14c4960b1bcf5d5f5e5d748",
         "name": "Aloo Gobi",
+        "photo": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzR8fGluZGlhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["potatoes", "cauliflower", "spices", "onion", "tomato"],
         "method": "1. Saute onion and spices. 2. Add potatoes and cauliflower. 3. Cook until tender. 4. Add tomato and cook until sauce thickens. Serve hot.",
         "rating": 4.1,
@@ -56,6 +60,7 @@
       {
         "id": "9b2cbf448cd24d1e836e7c3b3e46a90d",
         "name": "Chana Masala",
+        "photo": "https://images.unsplash.com/photo-1559203244-78de52adba0e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzB8fGluZGlhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["lamb", "rice", "spices", "onion", "yogurt"],
         "method": "1. Saute onion and spices. 2. Add chickpeas and cook until tender. 3. Serve hot.",
       "rating": 4.2,
@@ -64,6 +69,7 @@
       {
         "id": "c37a7a9bca2e4960b35a548a689c3f3a",
         "name": "Chicken Korma",
+        "photo": "https://images.unsplash.com/photo-1552590635-27c2c2128abf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTIzfHxpbmRpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["chicken", "cashews", "spices", "onion", "cream"],
         "method": "1. Saute onion and spices. 2. Grind cashews into a paste. 3. Add chicken and cashew paste. 4. Cook until chicken is tender. 5. Add cream and cook until heated through. Serve hot.",
         "rating": 4.6,
@@ -74,7 +80,7 @@
   {
     "id": "a75a908b8de64f36b50a04a583301c6c",
     "name": "Chef David Lee",
-    "photo": "https://example.com/chef-david-lee.jpg",
+    "photo": "https://media.istockphoto.com/id/1389857295/photo/african-american-woman-bakers-looking-at-camera-chef-baker-in-a-chef-dress-and-hat-cooking.jpg?b=1&s=170667a&w=0&k=20&c=s8-SqB42J9Fmo1nmtk0vrOeJJTMijxy7ojZscL7d6pc=",
     "experience": "8 years",
     "numRecipes": 6,
     "likes": 150,
@@ -84,6 +90,7 @@
       {
         "id": "34f7d74ef67d4287bba9873125f9c7b9",
         "name": "Saag Paneer",
+        "photo": "https://images.unsplash.com/photo-1624374053855-39a5a1a41402?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fGluZGlhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["paneer", "spinach", "spices", "onion", "cream"],
         "method": "1. Saute onion and spices. 2. Add spinach and cook until wilted. 3. Add paneer and cream. 4. Cook until heated through. Serve hot.",
         "rating": 4.0,
@@ -92,6 +99,7 @@
       {
         "id": "70d0ba2cc82849e7a107f455b08048d8",
         "name": "Bhindi Masala",
+        "photo": "https://images.unsplash.com/photo-1516714435131-44d6b64dc6a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGluZGlhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["okra", "spices", "onion", "tomato", "yogurt"],
         "method": "1. Saute onion and spices. 2. Add okra and cook until tender. 3. Add tomato and cook until sauce thickens. 4. Add yogurt and cook until heated through. Serve hot.",
         "rating": 4.3,
@@ -100,6 +108,7 @@
       {
         "id": "3b1ab3e3b53f4d8da8b97adaf0a2a96f",
         "name": "Fish Curry",
+        "photo": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGluZGlhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["fish", "coconut milk", "spices", "onion", "tomato"],
         "method": "1. Saute onion and spices. 2. Add tomato and cook until sauce thickens. 3. Add coconut milk and fish. 4. Cook until fish is tender. Serve hot.",
         "rating": 4.5,
@@ -109,8 +118,8 @@
   },
   {
     "id": "8e9b09f8315a4b2ebd135f5281a0a49d",
-    "name": "Chef Ritu Kumar",
-    "photo": "https://example.com/chef-ritu-kumar.jpg",
+    "name": "Chef Rakha Kumar",
+    "photo": "https://plus.unsplash.com/premium_photo-1661778091740-d7d06183d9d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTM5fHxjaGVmfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "experience": "11 years",
     "numRecipes": 9,
     "likes": 200,
@@ -120,6 +129,7 @@
       {
         "id": "0e3af8c0f7844372ba30116e9d9a8bb8",
         "name": "Paneer Tikka Masala",
+        "photo": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDR8fGluZGlhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["paneer", "spices", "onion", "tomato", "cream"],
         "method": "1. Marinate paneer in spices and yogurt. 2. Grill until golden brown. 3. Saute onion and spices. 4. Add tomato and cook until sauce thickens. 5. Add cream and cook until heated through. 6. Add grilled paneer. Serve hot.",
         "rating": 4.5,
@@ -128,6 +138,7 @@
       {
         "id": "1c02cb2153b24dce8e48e04f200b7af9",
         "name": "Chana Masala",
+        "photo": "https://images.unsplash.com/photo-1630409346824-4f0e7b080087?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fGluZGlhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["chickpeas", "spices", "onion", "tomato", "lemon"],
         "method": "1. Saute onion and spices. 2. Add chickpeas and cook until tender. 3. Serve hot.",
         "rating": 4.2,
@@ -136,6 +147,7 @@
       {
         "id": "e8e80cb982b04e98b50f58a879a8dc56",
         "name": "Chicken Tikka",
+        "photo": "https://images.unsplash.com/photo-1524239077444-27413e763bba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDd8fGluZGlhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["chicken", "spices", "yogurt", "ginger", "garlic"],
         "method": "1. Marinate chicken in spices and yogurt. 2. Grill until golden brown. Serve hot.",
         "rating": 4.8,
@@ -146,7 +158,7 @@
   {
     "id": "19f7f1282b9f46e99c0a50a4c4dc4a67",
     "name": "Chef Marco Marco",
-    "photo": "https://example.com/chef-ritu-kumar.jpg",
+    "photo": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "experience": "10 years",
     "numRecipes": 5,
     "likes": 187,
@@ -156,6 +168,7 @@
       {
         "id": "6db55f6c7b6f4d9b8f6fcf14467c15e6",
         "name": "Paneer Tikka Masala",
+         "photo": "https://images.unsplash.com/photo-1626500154744-e4b394ffea16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTB8fGluZGlhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["paneer", "spices", "onion", "tomato", "cream"],
         "method": "1. Marinate paneer in spices and yogurt. 2. Grill until golden brown. 3. Saute onion and spices. 4. Add tomato and cook until sauce thickens. 5. Add cream and cook until heated through. 6. Add grilled paneer. Serve hot.",
         "rating": 4.5,
@@ -164,6 +177,7 @@
       {
         "id": "0e964c5a1f3e4fb0a9d22a0f11b5cb3b",
         "name": "Chana Masala",
+         "photo": "https://images.unsplash.com/photo-1626266798999-aa2b0c520cc9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTJ8fGluZGlhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["chickpeas", "spices", "onion", "tomato", "lemon"],
         "method": "1. Saute onion and spices. 2. Add chickpeas and cook until tender. 3. Serve hot.",
         "rating": 4.2,
@@ -172,6 +186,7 @@
       {
         "id": "59fc1411082c49f3b9680bbd65cfa123",
         "name": "Chicken Tikka",
+         "photo": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjF8fGluZGlhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["chicken", "spices", "yogurt", "ginger", "garlic"],
         "method": "1. Marinate chicken in spices and yogurt. 2. Grill until golden brown. Serve hot.",
         "rating": 4.8,
@@ -182,7 +197,7 @@
   {
     "id": "2223e2d787e2420d92bf0b123a9b9ec8",
     "name": "Chef Sophia Anna",
-    "photo": "https://example.com/chef-ritu-kumar.jpg",
+    "photo": "https://media.istockphoto.com/id/1391235635/photo/portrait-of-black-female-chef-preparing-dish-tasting-food-and-enjoying-it-professional.jpg?b=1&s=170667a&w=0&k=20&c=oIDpaUFUuj3cFrELlrJgJvftBOZrYCWoLeEWjOQ_Q-c=",
     "experience": "14 years",
     "numRecipes": 7,
     "likes": 263,
@@ -192,6 +207,7 @@
       {
         "id": "7d550463934c46b7b5d035fe5bb7d1f5",
         "name": "Paneer Tikka Masala",
+         "photo": "https://images.unsplash.com/photo-1627035537727-96e5d592bbb6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzJ8fGluZGlhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["paneer", "spices", "onion", "tomato", "cream"],
         "method": "1. Marinate paneer in spices and yogurt. 2. Grill until golden brown. 3. Saute onion and spices. 4. Add tomato and cook until sauce thickens. 5. Add cream and cook until heated through. 6. Add grilled paneer. Serve hot.",
         "rating": 4.5,
@@ -200,6 +216,7 @@
       {
         "id": "9e8f0735bfb1415c92603042946667cc",
         "name": "Chana Masala",
+         "photo": "https://images.unsplash.com/photo-1628294896516-344152572ee8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTQ3fHxpbmRpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["chickpeas", "spices", "onion", "tomato", "lemon"],
         "method": "1. Saute onion and spices. 2. Add chickpeas and cook until tender. 3. Serve hot.",
         "rating": 4.2,
@@ -208,6 +225,7 @@
       {
         "id": "13b7e2bce6d9477f9dfc10eaa7a94a25",
         "name": "Chicken Tikka",
+         "photo": "https://images.unsplash.com/photo-1626266799502-ec96e7cc4bce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjA0fHxpbmRpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "ingredients": ["chicken", "spices", "yogurt", "ginger", "garlic"],
         "method": "1. Marinate chicken in spices and yogurt. 2. Grill until golden brown. Serve hot.",
         "rating": 4.8,
